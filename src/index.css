@@ -1,0 +1,10 @@
+@import 'tailwindcss';
+
+@theme {
+  --font-primary: 'Quicksand', serif;
+  --font-secondary: 'Roboto', serif;
+}
+
+@theme {
+  --breakpoint-xs: 20rem;
+}
